@@ -1,6 +1,6 @@
 # PX4 Drone Autopilot
 
-This repo was used by Anton Erasmus, Reghard Grobler, Henry Kotze, and Francois Slabber for their MEng work.
+**NB** This repo was used by Anton Erasmus, Reghard Grobler, Henry Kotze, and Francois Slabber for their MEng work.
 Their work is based off release 1.9
 See esl-sun/PX4-Autopilot-Murray for a later version with similar changes to the software
 
